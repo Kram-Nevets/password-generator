@@ -1,2 +1,2 @@
-# password-generator
+# password-manager
 a Password generator using python
